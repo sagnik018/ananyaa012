@@ -1,3 +1,4 @@
+![logo](https://github.com/ananyaa012/ananyaa012/blob/main/WhatsApp%20Image%202024-06-29%20at%2017.05.55_da33b893.jpg)
 <h1 align="center">Hi 👋, I'm Ananya Maitra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
