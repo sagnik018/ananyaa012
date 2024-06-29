@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="8001000" src="banner.jpg">
+<img align="center" alt="coding" width="8001000" src="https://github.com/ananyaa012/ananyaa012/blob/main/finally.jpg">
 <h1 align="center">Hi 👋, I'm Ananya Maitra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
