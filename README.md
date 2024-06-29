@@ -29,13 +29,26 @@ Digital Craftsman (Front-end Developer / Programmer)
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">SKILL & CURRENT LEARNING</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ananyaa012/ananyaa012/blob/main/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ananyaa012/ananyaa012/blob/main/Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="https://github.com/ananyaa012/ananyaa012/blob/main/Skills_Animation_White.gif">
 </picture>
 <br />
+<!--SKILL--> 
+<h3 align="left">Skills :</h3>
+<ul align="left">
+  <li>Language : HTML5,CSS#,JavaScript (ES6+).</li>
+  <li>Frameworks/Libraries: Vue.js</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+</ul>
 
-
+<!--Current learning--> 
+<h3 align="left">Current Learning :</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Advanced CSS Techniques: Mastering CSS Grid, Flexbox, and CSS-in-JS solutions for better layout control and responsiveness.</li>
+  <li>Performance Optimization: Exploring techniques to improve the speed and efficiency of JavaScript applications, including code splitting and lazy loading strategies.</li>
+</ul>
 
