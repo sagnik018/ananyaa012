@@ -1,5 +1,4 @@
-<!--Banner-->
-<img align="center" alt="coding" width="8001000" src="https://github.com/ananyaa012/ananyaa012/blob/main/finally.jpg">
+
 <!--side image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
