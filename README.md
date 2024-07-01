@@ -6,7 +6,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M ANANYA! 
-Digital Craftsman (Front-end Developer / Programmer)
+(Front-end Developer / Programmer)
 <br /> 
 
 <!--Start Intro-->               
