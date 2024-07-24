@@ -16,6 +16,10 @@
 <div align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaa012&" alt="ananyaa012"border-radius="15">
 </div>
+
+
+
+-----------------------------
 <!--Buy me a coffee-->
 <div align="center">
 <a href="https://ko-fi.com/ananyaa012" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
